@@ -40,6 +40,8 @@ function paperb(){
     }else{
         alert(`The result is ${result}. An error had occured`);
     }
+
+    console.log(result);
 }
 
 function scissorb(){
@@ -61,4 +63,6 @@ function scissorb(){
     else{
         alert(`The result is ${result}. An error had occured`);
     }
+
+    console.log(result);
 }
